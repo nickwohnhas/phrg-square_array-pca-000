@@ -1,4 +1,3 @@
-
 # Square Array
 
 ## Objectives
@@ -37,4 +36,4 @@ square_array(new_numbers)
 
 * [Ruby Docs](http://www.ruby-doc.org/core-2.1.2/) - [Each Method](http://www.ruby-doc.org/core-2.1.2/Array.html#method-i-each)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/square_array' title='Square Array'>Square Array</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Square Array</p>
